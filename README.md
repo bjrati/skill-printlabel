@@ -2,7 +2,7 @@
 Neon Mark2 skill for printing food container labels on Brother QL-800 printer.
 
 ## About
-Prints a food container label that contains the date plus optional content text spoken after the work *for*.
+Prints a food container label that contains the date plus optional content text spoken after the word *for*.
 
 ## Examples
 * "Print label"  
@@ -10,7 +10,6 @@ Prints a food container label that contains the date plus optional content text 
 * "Print three labels for chicken soup"  
 
 ## Credits
-[Mycroft AI](https://github.com/MycroftAI)
 [bjrati](https://github.com/bjrati)
 
 ## Category
