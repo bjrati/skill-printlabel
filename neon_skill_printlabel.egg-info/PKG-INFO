@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: neon-skill-printlabel
+Version: 1.1.0
+Summary: Neon Print Label Skill
+Home-page: https://github.com/bjrati/skill-printlabel
+Author: bjrati
+Author-email: bjrati@gmail.com
+License: BSD-3-Clause
+Description-Content-Type: text/markdown
+Provides-Extra: 
+License-File: LICENSE
+License-File: LICENSE.md
+
+# <img src='https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png' card_color="#FF8600" width="50" style="vertical-align:bottom">Print Label
+
+## Summary
+
+Prints food container labels with date and optional content on Brother QL-800 printers.
+
+## Description
+
+Prints food container labels with date and optional content on Brother QL-800 printers.
+
+## Examples
+
+Say any of the following and wait for Neon to use a Brother Ql-800 printer to print labels:
+* "Print a label for tomato soup."  
+* "Print two labels."  
+* "Print three labels for chicken soup."  
+
+## Contact Support
+
+
+## Credits
+[bjrati](https://github.com/bjrati)
+
+
+## Category
+**IOT**
+
+## Tags
+#Print-Label
+#PrintLabel
+

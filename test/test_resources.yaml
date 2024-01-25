@@ -1,0 +1,23 @@
+# Specify resources to test here.
+
+# Specify languages to be tested
+languages:
+  - "en-us"
+
+# vocab is lowercase .voc file basenames
+vocab: 
+  - LabelKeyword
+  - PrintKeyword
+  - PrintLabelsKeyword
+
+# dialog is .dialog file basenames (case-sensitive)
+dialog: []
+    - labels.print.dialog
+# regex entities, not necessarily filenames
+regex: []
+intents:
+  # Padatious intents are the `.intent` file names
+  padatious:
+    - labels.print.intent
+  # Adapt intents are the name passed to the constructor
+  adapt: []

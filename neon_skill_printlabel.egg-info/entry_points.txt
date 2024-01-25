@@ -1,0 +1,2 @@
+[ovos.plugin.skill]
+skill-printlabel.bjrati = skill_printlabel:PrintLabel

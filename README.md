@@ -10,7 +10,6 @@ Prints a food container label that contaiin the date plus optional content text 
 * "Print three labels for chicken soup"  
 
 ## Credits
-[Mycroft AI](https://github.com/MycroftAI)
 [bjrati](https://github.com/bjrati)
 
 ## Category
