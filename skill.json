@@ -1,9 +1,9 @@
 {
     "title": "Print Label",
     "url": "https://github.com/bjrati/skill-printlabel",
-    "summary": "Prints food container labels with date and option content on Brother QL-800 printers",
-    "short_description": "Prints food container labels with date and option content on Brother QL-800 printerss.",
-    "description": "Prints food container labels with date and option content on Brother QL-800 printers.",
+    "summary": "Prints food container labels with date and optional content on Brother QL-800 printers",
+    "short_description": "Prints food container labels with date and optional content on Brother QL-800 printerss.",
+    "description": "Prints food container labels with date and optional content on Brother QL-800 printers.",
     "examples": [
         "Print a label for tomato soup.",
         "Print two labels.",
@@ -41,11 +41,8 @@
         "PrintLabel"
     ],
     "credits": [
-        "Mycroft AI",
-        "NeonDaniel",
-        "reginaneon",
-        "Ryan Sipes",
-        "Steve Penrod"
+        "bjrati"
+
     ],
     "skillname": "skill-printlabel",
     "authorname": "bjrati",
