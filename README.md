@@ -2,7 +2,7 @@
 Neon Mark2 skill for printing food container labels on Brother QL-800 printer.
 
 ## About
-Prints a food container label that contaiin the date plus optional content text spoken after the work *for*.
+Prints a food container label that contains the date plus optional content text spoken after the work *for*.
 
 ## Examples
 * "Print label"  
